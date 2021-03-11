@@ -1,0 +1,14 @@
+viel/pluglist
+airline/vim-airline.git
+dense-analysis/ale.git
+neoclide/coc.nvim.git
+flazz/vim-colorschemes.git
+kien/ctrlp.vim.git
+tpope/vim-fugitive.git
+junegunn/fzf.vim.git
+Yggdroot/indentLine.git
+preservim/nerdcommenter.git
+preservim/nerdtree.git
+jistr/vim-nerdtree-tabs.git
+christoomey/vim-tmux-navigator.git
+teste
