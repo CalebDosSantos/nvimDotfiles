@@ -1,4 +1,3 @@
-viel/pluglist
 airline/vim-airline.git
 dense-analysis/ale.git
 neoclide/coc.nvim.git
