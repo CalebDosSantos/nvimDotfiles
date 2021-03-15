@@ -1,5 +1,5 @@
-viel/pluglist
-airline/vim-airline.git
+vim-airline/vim-airline.git
+vim-airline/vim-airline-themes.git
 dense-analysis/ale.git
 neoclide/coc.nvim.git
 flazz/vim-colorschemes.git
@@ -11,4 +11,4 @@ preservim/nerdcommenter.git
 preservim/nerdtree.git
 jistr/vim-nerdtree-tabs.git
 christoomey/vim-tmux-navigator.git
-teste
+ryanoasis/vim-devicons.git
