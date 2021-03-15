@@ -1,6 +1,9 @@
 " ativar sintaxe colorida
 syntax on
 
+" encoding
+set encoding=UTF-8
+
 " ativar indentação automática
 set autoindent
 
