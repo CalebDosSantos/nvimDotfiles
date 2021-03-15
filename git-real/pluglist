@@ -12,3 +12,4 @@ preservim/nerdtree.git
 jistr/vim-nerdtree-tabs.git
 christoomey/vim-tmux-navigator.git
 ryanoasis/vim-devicons.git
+stsewd/fzf-checkout.vim.git
