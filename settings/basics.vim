@@ -45,3 +45,12 @@ nnoremap <space> za
 
 " guifont
 set guifont=SpaceMono:h12
+
+function SudoSave()
+  "File name
+  echo expand('%:t')
+  "Full path
+  echo expand('%:p')
+endfunction
+
+command! SV call SudoSave()
