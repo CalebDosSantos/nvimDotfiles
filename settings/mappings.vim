@@ -34,6 +34,11 @@ nnoremap "" ciw"<C-R>""<esc>
 inoremap {}j <cr>{<cr>}<esc>O
 inoremap []j <cr>[<cr>]<esc>O
 inoremap ()j <cr>(<cr>)<esc>O
+" inoremap {}j <cr>{<cr>}<esc>O
+" inoremap []j <cr>[<cr>]<esc>O
+ inoremap (<space> ()<esc>hi
+ inoremap "<space> ""<esc>hi
+ inoremap '<space> ''<esc>hi
 " }}}
 
 

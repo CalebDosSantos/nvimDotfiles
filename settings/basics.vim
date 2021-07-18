@@ -53,4 +53,6 @@ function SudoSave()
   echo expand('%:p')
 endfunction
 
+let mapleader = 'z'
+
 command! SV call SudoSave()
