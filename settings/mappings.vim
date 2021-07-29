@@ -31,14 +31,7 @@ inoremap <c-z> <esc>vbc
 "vnoremap <c-y> 
 "nnoremap z1 :echo "ctrl 1"<cr>
 nnoremap "" ciw"<C-R>""<esc>
-inoremap {}j <cr>{<cr>}<esc>O
-inoremap []j <cr>[<cr>]<esc>O
-inoremap ()j <cr>(<cr>)<esc>O
-" inoremap {}j <cr>{<cr>}<esc>O
-" inoremap []j <cr>[<cr>]<esc>O
- inoremap (<space> ()<esc>hi
- inoremap "<space> ""<esc>hi
- inoremap '<space> ''<esc>hi
+
 " }}}
 
 
