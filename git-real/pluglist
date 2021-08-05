@@ -15,3 +15,7 @@ ryanoasis/vim-devicons.git
 stsewd/fzf-checkout.vim.git
 #cosminadrianpopescu/vim-sql-workbench.git
 joereynolds/SQHell.vim.git
+nvim-lua/popup.nvim
+nvim-lua/plenary.nvim
+nvim-telescope/telescope.nvim
+
