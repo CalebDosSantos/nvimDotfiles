@@ -19,3 +19,8 @@ nvim-lua/popup.nvim
 nvim-lua/plenary.nvim
 nvim-telescope/telescope.nvim
 nvim-treesitter/nvim-treesitter
+pangloss/vim-javascript
+leafgarland/typescript-vim
+peitalin/vim-jsx-typescript
+styled-components/vim-styled-components
+jparise/vim-graphql
