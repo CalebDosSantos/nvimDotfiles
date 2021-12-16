@@ -14,4 +14,5 @@ christoomey/vim-tmux-navigator.git
 ryanoasis/vim-devicons.git
 stsewd/fzf-checkout.vim.git
 #cosminadrianpopescu/vim-sql-workbench.git
-joereynolds/SQHell.vim.git
+CalebDosSantos/SQHell.vim
+CalebDosSantos/vim-dadbod

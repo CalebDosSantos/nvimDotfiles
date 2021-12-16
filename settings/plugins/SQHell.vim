@@ -1,12 +1,14 @@
 nnoremap zsql :SQHShowDatabases<cr>
 
-let g:sqh_provider = 'mysql'
+"let g:sqh_provider = 'mysql'
+let g:sqh_provider = 'psql'
 
 let g:sqh_connections = {
     \ 'default': {
-    \   'user': 'root',
-    \   'password': '13@mysql',
-    \   'host': '172.17.0.2'
+    \   'user': 'postgres',
+    \   'password': 'Postgres2021!',
+    \   'host': '172.18.0.2',
+    \   'database': 'dsvendas'
     \}
 \}
 
