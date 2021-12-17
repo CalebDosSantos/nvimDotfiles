@@ -41,7 +41,7 @@ set tabstop=2 softtabstop=2 expandtab shiftwidth=2
 " código iniciará colapsado
 set foldmethod=syntax
 set foldlevel=99
-nnoremap <space> za 
+"nnoremap <space> za 
 
 " guifont
 set guifont=SpaceMono:h12

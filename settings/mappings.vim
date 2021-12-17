@@ -5,9 +5,9 @@
 "set tabstop=4
 "let mapleader = "z"
 "let localmapleader = "z"
-set foldmethod=marker
+"set foldmethod=marker
 set hlsearch incsearch
-set foldlevelstart=0
+"set foldlevelstart=0
 set showcmd
 set wrap
 "}}}
@@ -30,10 +30,10 @@ inoremap <c-z> <esc>vbc
 "nmap <leader>b :Zb<cr>
 "vnoremap <c-y> 
 "nnoremap z1 :echo "ctrl 1"<cr>
-nnoremap "" ciw"<C-R>""<esc>
-inoremap {}j <cr>{<cr>}<esc>O
-inoremap []j <cr>[<cr>]<esc>O
-inoremap ()j <cr>(<cr>)<esc>O
+"nnoremap "" ciw"<C-R>""<esc>
+inoremap {}j {<cr>}<esc>O
+inoremap []j [<cr>]<esc>O
+inoremap ()j (<cr>)<esc>O
 
 " }}}
 
